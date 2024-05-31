@@ -1,0 +1,16 @@
+name: 💬 Feedback
+description: Let us know your opinion about apm
+title: "Feedback: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Anything goes! The good, the bad, and the ugly. Just keep it decent since your post will be public.
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Your Feedback
+    validations:
+      required: true

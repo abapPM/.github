@@ -1,0 +1,16 @@
+name: 💭 Question
+description: Do you have a question about apm?
+title: "Q: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Any question about apm? Let us know. We are here to help!
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Your Question
+    validations:
+      required: true
