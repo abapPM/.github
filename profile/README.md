@@ -1,6 +1,6 @@
 Hi, there!👋
 
-[apm.to](https://abappm.com) Inc. is the company behind apm 📦, the apm Website 🌐, and the apm Registry 📑. 
+[apm.to](https://abappm.com) Inc. is the company behind apm Package Manager for ABAP 📦, the apm Website 🌐, and the apm Registry 📑. 
 
 If you've used apm and found it useful, please [support](https://github.com/sponsors/abappm) us.
 
