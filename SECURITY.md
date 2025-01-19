@@ -2,15 +2,15 @@
 
 ## Responsible Security Disclosure
 
-While we try to be proactive in preventing security problems, unfortunately, it is inevitable that security flaws will be discovered in all software, including our own. It is standard practice in open source to **responsibly** and **privately** disclose to the vendor — in this case *apm.to Inc.* — a security problem before publicizing, so a fix can be prepared, and we can take proactive steps to protect the users of *apm.to*.
+While we try to be proactive in preventing security problems, unfortunately, it is inevitable that security flaws will be discovered in all software, including our own. It is standard practice in open source to **responsibly** and **privately** disclose to the vendor — in this case *apm.to Inc.* — a security problem before publicizing, so a fix can be prepared, and we can take proactive steps to protect the users of *apm*.
 
 ## Supported Versions
 
-Security updates for *apm.to* will be integrated as soon as possible. Therefore, update to the latest version to include all known security patches.
+Security updates for *apm* will be integrated as soon as possible. Therefore, update to the latest version to include all known security patches.
 
 ## Reporting a Vulnerability
 
-To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/Marc-Bernard-Tools/.github/security/advisories/new) tab.
+To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/abapPM/.github/security/advisories/new) tab.
 
 We will send a response indicating the next steps in handling your report. After the initial reply to your report, we will keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
 
