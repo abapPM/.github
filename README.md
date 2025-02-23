@@ -1,6 +1,6 @@
 # apm Profile
 
-This repository contains the [default community files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for apm on GitHub.
+This repository contains the [default community files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for [apm.to Inc.](https://apm.to) on GitHub.
 
 These files are used by all public repositories if there are no versions of these health files configured.
 
