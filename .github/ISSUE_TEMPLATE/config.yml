@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 🛡 Security Report
-    url: https://abappm.com/security/
+    url: https://github.com/abapPM/.github/security/advisories/new
     about: I want to report a security vulnerability
   - name: 🏘 Chat
     url: https://communityinviter.com/apps/abapgit/join-our-slack-community
